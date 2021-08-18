@@ -24,3 +24,5 @@
 		- nc -v 1.1.1.1 9000
 	- telnet 1.1.1.1 22
 -
+### aws 命令
+	- aws ls s3://bucket_name --endpoint=<endpoint_name>
