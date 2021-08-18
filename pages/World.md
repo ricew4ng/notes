@@ -20,5 +20,8 @@
 	- 地图编辑的函数和方法
 		-
 	- 前端渲染
+-
+## 关键词：echarts 地图
+- echarts有地图数据，这周末看一下
 - ![2021_08_18_image.png](https://cdn.logseq.com/%2F2bb51b82-34df-494a-8636-99e357d4bc2de9dfff24-c566-416c-9898-1b1e5505962a2021_08_18_image.png?Expires=4782870446&Signature=kCHVNhhMx2MxN0ZN5XK0KGYsEweIPxis7SeO1NtowwAbkcEbfFVXRyEbtmb0-zycD2SkXLJ5DNSsSBJGhJFiIogV2JRGZXuXSnYNHHgtHBCFxX~wZzDhkI3-3sui7rpiBNn5mqllocaDBqVPIsXmPIVzpqvxyej~RUwl4CcpP8c5dtWheg7BNlBRMPcZ8o~niHozchHzylt8GcZY0iUcnNYIm6LdA-TtDG~Lxr8n5JITEK7VwbZOYZf~QguY2Y7TQv-AFS0P649z6B9ik6aVQ7WSmoWlynddt0PfJ7pRXFulfjLgBAuLns~O1fd54ZOCSyMpHQsDC4T3mhWoT7AYPQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA) ![2021_08_18_image.png](https://cdn.logseq.com/%2F2bb51b82-34df-494a-8636-99e357d4bc2dce4946ef-95d1-4894-84d0-20506c6453fb2021_08_18_image.png?Expires=4782870446&Signature=UEzfF1OSAq0EzajvMadXoxKwVyeA8uErVWkaw1k3IasMnJv3I1Q~FEScKkaW6vUKRCNj1GySk1g5AuXFGXKWtzVUdFU9IDF3ZeMZ51W9XjUgfXmRxNlvKmp9WY0VWp-MmBOmISja~ugTe8Brh4M2oeq5BaI9zU0eXWLA31hfu9WhrDiosiUSlGhMEsVZx81mNBrdi0~vrs1E93F7Y9pEJ5-7M0kRFYnd2Su7W1o5ArZPmkTgaQn5wHb5NKGj2i8F1s0IO8MBUJj92sekUGme~sDDFGwGpXygeDOMWW0do7s146CLZMRODqztGbzCxQV5cTNaXJVZ2JwXZ~9dGSRuaQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 - ref：https://yezongyang.github.io/china-map/
