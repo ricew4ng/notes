@@ -1,0 +1,39 @@
+- docker run -it --name teamcity-server \
+  -v /data/teamcity/:/data/teamcity_server/datadir \
+  -v /opt/teamcity/log:/opt/teamcity/logs \
+  -p 8111:8111 \
+  jetbrains/teamcity-server
+-
+- docker start <container_id> 启动容器
+-
+- 进入容器
+- docker exec -it <container_id> /bin/bash
+-
+- 进入容器（root权限）
+- docker exec -it -u 0 <container_id> /bin/bash
+-
+- 查看所有容器
+- docker ps -a
+-
+- 查看所有镜像
+- docker images
+-
+- 运行java
+- docker run -d -it --name teamcity-agent java
+- run 使用镜像创建一个容器
+- -d 容器运行于后台
+- -i 以交互模式运行容器
+- -t 为容器重新分配一个伪输入终端，通常与-i同时使用
+-
+- 进入镜像
+- 在 /opt下 wget Agent 包 然后 unzip
+- wget http://10.92.20.43:8111/update/buildAgentFull.zip
+-
+- 安装vim， apt-get update && apt-get install vim
+-
+- 编辑配置文件
+- vi conf/buildAgent.dist.properties
+-
+-
+- 复制
+- docker cp
