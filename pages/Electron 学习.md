@@ -1,0 +1,2 @@
+- Electron可以让你使用纯 Javascript 调用原生 API 创造桌面应用。
+- 主进程、渲染进程；每个Electron的页面都在运行着一个渲染进程。
