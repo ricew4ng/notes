@@ -1,5 +1,5 @@
 ### sed命令 操作/编辑文件
-	- https://blog.csdn.net/xj626852095/article/details/26101273
+	- http://linux.51yip.com/search/sed
 	- 常用选项：
 	          -n∶使用安静(silent)模式。在一般 sed 的用法中，所有来自 STDIN的资料一般都会被列出到萤幕上。但如果加上 -n 参数后，则只有经过sed 特殊处理的那一行(或者动作)才会被列出来。
 	          -e∶直接在指令列模式上进行 sed 的动作编辑；
