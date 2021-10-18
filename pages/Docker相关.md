@@ -39,13 +39,18 @@
 		- -t, --timestamps     显示时间戳
 		- --until string   显示自某个timestamp之前的日志，或相对时间，如42m（即42分钟）
 -
+### 镜像历史
+	- docker history <image_name>
+-
 ## 编译镜像
 - 使用Dockerfile定制镜像： https://yeasy.gitbook.io/docker_practice/image/build
 - Docker镜像是分层构成的，当前层之前的层是不能修改的，
-- 构建命令
+- 使用Dockerfile构建：
+- touch Dockerfile
+- 内容
+- FROM <image_name>    # 指定基础镜像，必备且是第一条命令
+- RUN bash_shell  # RUN运行构建的命令
 -
-  ```bash
-  ```
 -
 ## Examples
 -
