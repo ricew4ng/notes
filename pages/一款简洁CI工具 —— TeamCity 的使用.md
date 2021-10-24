@@ -26,3 +26,26 @@
 -
 ### TeamCity 数据库迁移
 -
+-
+### TeamCity 使用Commit Hook 监听gitlab提交并触发CI
+-
+-
+  1. https://www.jetbrains.com/help/teamcity/2021.1/configuring-vcs-post-commit-hooks-for-teamcity.html#Overview
+-
+-
+  2. https://www.jetbrains.com/help/teamcity/rest/manage-vcs-roots.html#VCS+Roots
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
